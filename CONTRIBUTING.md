@@ -1,4 +1,4 @@
-Contributing to leaflet-blurred-location
+### __Contributing to leaflet-blurred-location__
 ==========================
 
 We welcome community contributions to eaflet-blurred-location! For local installatin follow the instructions in the [README.md file](https://github.com/publiclab/leaflet-blurred-location/blob/main/README.md#setting-up-leaflet-blurred-location).
